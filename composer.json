@@ -1,0 +1,13 @@
+{
+    "name": "monetok1/dzen-code.moneto4ka.tk",
+    "require-dev": {
+        "gregwar/captcha": "^1.1"
+    },
+    "authors": [
+        {
+            "name": "daniel.artemiev",
+            "email": "daniel.artemiev@outlook.com"
+        }
+    ],
+    "require": {}
+}
